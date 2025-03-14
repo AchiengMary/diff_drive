@@ -1,0 +1,32 @@
+[5.431s] Invoking command in '/home/achieng/robotics/diff_drive/src/my_diffbot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/achieng/robotics/diff_drive/build/my_diffbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_diffbot build --build-base /home/achieng/robotics/diff_drive/build/my_diffbot/build install --record /home/achieng/robotics/diff_drive/build/my_diffbot/install.log --single-version-externally-managed install_data
+[5.861s] running egg_info
+[5.861s] creating ../../build/my_diffbot/my_diffbot.egg-info
+[5.893s] writing ../../build/my_diffbot/my_diffbot.egg-info/PKG-INFO
+[5.894s] writing dependency_links to ../../build/my_diffbot/my_diffbot.egg-info/dependency_links.txt
+[5.894s] writing requirements to ../../build/my_diffbot/my_diffbot.egg-info/requires.txt
+[5.894s] writing top-level names to ../../build/my_diffbot/my_diffbot.egg-info/top_level.txt
+[5.894s] writing manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+[5.959s] reading manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+[5.960s] writing manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+[5.960s] running build
+[5.960s] running build_py
+[5.961s] creating /home/achieng/robotics/diff_drive/build/my_diffbot/build
+[5.961s] creating /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib
+[5.961s] creating /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib/my_diffbot
+[5.961s] copying my_diffbot/__init__.py -> /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib/my_diffbot
+[5.961s] running install
+[5.970s] running install_lib
+[6.002s] creating /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot
+[6.002s] copying /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib/my_diffbot/__init__.py -> /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot
+[6.003s] byte-compiling /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot/__init__.py to __init__.cpython-312.pyc
+[6.003s] running install_data
+[6.003s] creating /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index
+[6.003s] creating /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index/resource_index
+[6.003s] creating /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index/resource_index/packages
+[6.004s] copying resource/my_diffbot -> /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index/resource_index/packages
+[6.004s] copying package.xml -> /home/achieng/robotics/diff_drive/install/my_diffbot/share/my_diffbot
+[6.004s] running install_egg_info
+[6.039s] Copying ../../build/my_diffbot/my_diffbot.egg-info to /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot-0.0.0-py3.12.egg-info
+[6.040s] running install_scripts
+[6.246s] writing list of installed files to '/home/achieng/robotics/diff_drive/build/my_diffbot/install.log'
+[6.291s] Invoked command in '/home/achieng/robotics/diff_drive/src/my_diffbot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/achieng/robotics/diff_drive/build/my_diffbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_diffbot build --build-base /home/achieng/robotics/diff_drive/build/my_diffbot/build install --record /home/achieng/robotics/diff_drive/build/my_diffbot/install.log --single-version-externally-managed install_data

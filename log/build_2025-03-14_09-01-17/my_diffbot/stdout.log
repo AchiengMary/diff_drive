@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/my_diffbot/my_diffbot.egg-info
+writing ../../build/my_diffbot/my_diffbot.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_diffbot/my_diffbot.egg-info/dependency_links.txt
+writing requirements to ../../build/my_diffbot/my_diffbot.egg-info/requires.txt
+writing top-level names to ../../build/my_diffbot/my_diffbot.egg-info/top_level.txt
+writing manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/achieng/robotics/diff_drive/build/my_diffbot/build
+creating /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib
+creating /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib/my_diffbot
+copying my_diffbot/__init__.py -> /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib/my_diffbot
+running install
+running install_lib
+creating /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot
+copying /home/achieng/robotics/diff_drive/build/my_diffbot/build/lib/my_diffbot/__init__.py -> /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot
+byte-compiling /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index
+creating /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index/resource_index
+creating /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index/resource_index/packages
+copying resource/my_diffbot -> /home/achieng/robotics/diff_drive/install/my_diffbot/share/ament_index/resource_index/packages
+copying package.xml -> /home/achieng/robotics/diff_drive/install/my_diffbot/share/my_diffbot
+running install_egg_info
+Copying ../../build/my_diffbot/my_diffbot.egg-info to /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/achieng/robotics/diff_drive/build/my_diffbot/install.log'
