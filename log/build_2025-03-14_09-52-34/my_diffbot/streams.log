@@ -1,0 +1,20 @@
+[1.294s] Invoking command in '/home/achieng/robotics/diff_drive/src/my_diffbot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/achieng/robotics/diff_drive/build/my_diffbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_diffbot build --build-base /home/achieng/robotics/diff_drive/build/my_diffbot/build install --record /home/achieng/robotics/diff_drive/build/my_diffbot/install.log --single-version-externally-managed install_data
+[1.705s] running egg_info
+[1.738s] writing ../../build/my_diffbot/my_diffbot.egg-info/PKG-INFO
+[1.739s] writing dependency_links to ../../build/my_diffbot/my_diffbot.egg-info/dependency_links.txt
+[1.739s] writing requirements to ../../build/my_diffbot/my_diffbot.egg-info/requires.txt
+[1.739s] writing top-level names to ../../build/my_diffbot/my_diffbot.egg-info/top_level.txt
+[1.803s] reading manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+[1.805s] writing manifest file '../../build/my_diffbot/my_diffbot.egg-info/SOURCES.txt'
+[1.805s] running build
+[1.805s] running build_py
+[1.806s] running install
+[1.815s] running install_lib
+[1.848s] running install_data
+[1.848s] copying package.xml -> /home/achieng/robotics/diff_drive/install/my_diffbot/share/my_diffbot
+[1.848s] running install_egg_info
+[1.882s] removing '/home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot-0.0.0-py3.12.egg-info' (and everything under it)
+[1.882s] Copying ../../build/my_diffbot/my_diffbot.egg-info to /home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages/my_diffbot-0.0.0-py3.12.egg-info
+[1.884s] running install_scripts
+[2.094s] writing list of installed files to '/home/achieng/robotics/diff_drive/build/my_diffbot/install.log'
+[2.144s] Invoked command in '/home/achieng/robotics/diff_drive/src/my_diffbot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/achieng/robotics/diff_drive/build/my_diffbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/achieng/robotics/diff_drive/install/my_diffbot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_diffbot build --build-base /home/achieng/robotics/diff_drive/build/my_diffbot/build install --record /home/achieng/robotics/diff_drive/build/my_diffbot/install.log --single-version-externally-managed install_data
